@@ -1,4 +1,4 @@
-# 🛡️ Telegram-бот и Mini Apps для выдачи VPN-ключей из панели Remnawave
+# 🛡️ Telegram-бот и Mini Apps для выдачи VPN-ключей из панели Remnawave.
 
 ![GhastVPN Banner](https://radika1.link/2025/07/22/Thumbnail-18c44391456913c6c.png)
 
