@@ -1,6 +1,6 @@
 # 🛡️ Telegram-бот и Mini Apps для выдачи VPN-ключей из панели Remnawave.
 
-![GhastVPN Banner](https://radika1.link/2025/07/22/Thumbnail-18c44391456913c6c.png)
+![GhastVPN Banner](https://s1.radikal.cloud/2026/03/06/Thumbnail58b7cf4136e874e6.png)
 
 ## ⚡ Умный VPN-бот с интеграцией Remnawave и автоматическим управлением ключами. Включает в себя Telegram бота и Mini Apps приложение для управления ключами/оплатой/помощью и тд.
 
