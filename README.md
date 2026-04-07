@@ -63,7 +63,7 @@
 
 <br />
 
-## 🚀 Основные возможности
+## 🚀 Основные возможности!
 
 ### Telegram бот
 - Написан на TypeScript, Bun и GrammyJS, Drizzle.
