@@ -59,7 +59,7 @@
   </a>
 </details>
 
-Протестировать можно [тут](https://t.me/GorynychVPNbot)
+Протестировать можно [тут](https://t.me/GorynychVPNbot?start=445107195)
 
 <br />
 
@@ -103,7 +103,7 @@
 
 <br />
 
-## 🔗 Попробовать сейчас - [клик](https://t.me/GorynychVPNbot)
+## 🔗 Попробовать сейчас - [клик](https://t.me/GorynychVPNbot?start=445107195)
 
 <br />
 
