@@ -104,6 +104,7 @@
 <br />
 
 ## 🔗 Попробовать сейчас - [клик](https://t.me/GorynychVPNbot?start=445107195)
+## 🔗 Мой закрытый канал - [клик](https://VpnServices4YouBot)
 
 <br />
 
